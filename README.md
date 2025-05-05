@@ -76,14 +76,14 @@ Output: ❌ Error: Input contains duplicates.
 
 MissingNumberGameApp/  
 │  
-├── missingNumberGameGUI.py     # Main application script  
-├── bgheart.png                 # Background image  
-├── label.png                   # Label background image  
-├── button.png                  # Custom button image  
-├── image.png                   # Preview in Readme file  
-├── image-1.png                   # Preview in Readme file  
-├── image-2.png                   # Preview in Readme file  
-└── README.md                   # This file
+├── missingNumberGameGUI.py     -   Main application script  
+├── bgheart.png                 -   Background image  
+├── label.png                   -   Label background image  
+├── button.png                  -   Custom button image  
+├── image.png                   -   Preview in Readme file  
+├── image-1.png                 -   Preview in Readme file  
+├── image-2.png                 -   Preview in Readme file  
+└── README.md                   -   This file
 
 ---
 
