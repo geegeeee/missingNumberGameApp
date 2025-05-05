@@ -43,7 +43,6 @@ A playful and educational GUI app built with Python and Tkinter to help users fi
 
 3. Run the app:
     python missingNumberGameGUI.py
-```
 
 ---
 
