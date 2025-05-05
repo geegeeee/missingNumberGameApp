@@ -53,6 +53,9 @@ Make sure these image files are in the same folder as your script:
     ~ bgheart.png – background image
     ~ label.png – background for input label
     ~ button.png – custom image button
+    ~ image.png - preview for readme file
+    ~ image-1.png - preview for readme file
+    ~ image-2.png - preview for readme file
 You can resize or replace them as you wish.
 
 ---
@@ -72,12 +75,12 @@ Output: ❌ Error: Input contains duplicates.
 ## 📁 Folder Structure
 
 MissingNumberGameApp/
-│
-├── missingNumberGameGUI.py     # Main application script
-├── bgheart.png                 # Background image
-├── label.png                   # Label background image
-├── button.png                  # Custom button image
-└── README.md                   # This file
+│/
+├── missingNumberGameGUI.py     # Main application script/
+├── bgheart.png                 # Background image/
+├── label.png                   # Label background image/
+├── button.png                  # Custom button image/
+└── README.md                   # This file/
 
 ---
 
