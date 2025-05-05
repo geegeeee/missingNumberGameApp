@@ -35,7 +35,7 @@ A playful and educational GUI app built with Python and Tkinter to help users fi
 
 1. Clone or download this repo:
    ```bash
-   git clone https://github.com/your-username/MissingNumberGameApp.git
+   git clone https://github.com/geegeeee/MissingNumberGameApp.git
    cd MissingNumberGameApp
 
 2. Make sure you have Python 3 installed:
