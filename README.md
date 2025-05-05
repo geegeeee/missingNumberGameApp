@@ -74,13 +74,13 @@ Output: ❌ Error: Input contains duplicates.
 
 ## 📁 Folder Structure
 
-MissingNumberGameApp/
-│/
-├── missingNumberGameGUI.py     # Main application script/
-├── bgheart.png                 # Background image/
-├── label.png                   # Label background image/
-├── button.png                  # Custom button image/
-└── README.md                   # This file/
+MissingNumberGameApp/  
+│  
+├── missingNumberGameGUI.py     # Main application script  
+├── bgheart.png                 # Background image  
+├── label.png                   # Label background image  
+├── button.png                  # Custom button image  
+└── README.md                   # This file
 
 ---
 
